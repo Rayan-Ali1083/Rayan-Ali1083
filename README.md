@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayan-Ali1083](https://github.com/Rayan-Ali1083)
 
-- 💬 Ask me about **python, data science, machine learning, SQL**
+- 💬 Ask me about **Python, Data Science, Machine Learning, SQL**
 
 - 📫 How to reach me **rayanali1083@gmail.com**
 
