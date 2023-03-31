@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayan Ali</h1>
 <h3 align="center">Data aficionado</h3>
-<img align="right" alt="Coding" width="300" src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?" />
+<img alt="Coding" width="100%" height='300' src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan-ali1083&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-ali1083" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayan-ali1083" alt="rayan-ali1083" /></a> </p>
