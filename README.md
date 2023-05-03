@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rayanali1083@gmail.com**
 
-- 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/1jpxHMveGnJOlXf67vQQ3uZUNwyJ1RRwP/view?usp=share_link)
+- 📄 Know about my experiences [Link to Resume](https://docs.google.com/document/d/1OE3fL-5hfG6j78T76vXJlYo6Q7jEh9a2/edit?usp=share_link&ouid=100889786794450651640&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
