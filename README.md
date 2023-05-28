@@ -6,8 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan-ali1083&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-ali1083" /> </p>
 
-- 🔭 I’m currently working on [a project for my IEEE presentation](https://github.com/Rayan-Ali1083/IEEE-seminar-boats-dataset)
-
+- 🔭 I’m currently working on GPA 😭😭😭
 - 🌱 I’m currently learning **Data Science, Machine Learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayan-Ali1083](https://github.com/Rayan-Ali1083)
